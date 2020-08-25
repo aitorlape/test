@@ -1,0 +1,7 @@
+{
+    "name": "aitorlape/package-test",
+    "description": "Package that does nothing",
+    "require": {
+        "php": "^5.6"
+    }
+}
