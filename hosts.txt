@@ -1,2 +1,0 @@
-0.0.0.0 www.marca.com
-0.0.0.0 marca.com
